@@ -1,0 +1,13 @@
+D:\project\WriteLine\WriteLine\bin\Debug\netcoreapp3.1\WriteLine.exe
+D:\project\WriteLine\WriteLine\bin\Debug\netcoreapp3.1\WriteLine.deps.json
+D:\project\WriteLine\WriteLine\bin\Debug\netcoreapp3.1\WriteLine.runtimeconfig.json
+D:\project\WriteLine\WriteLine\bin\Debug\netcoreapp3.1\WriteLine.runtimeconfig.dev.json
+D:\project\WriteLine\WriteLine\bin\Debug\netcoreapp3.1\WriteLine.dll
+D:\project\WriteLine\WriteLine\bin\Debug\netcoreapp3.1\WriteLine.pdb
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.csprojAssemblyReference.cache
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.AssemblyInfoInputs.cache
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.AssemblyInfo.cs
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.csproj.CoreCompileInputs.cache
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.dll
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.pdb
+D:\project\WriteLine\WriteLine\obj\Debug\netcoreapp3.1\WriteLine.genruntimeconfig.cache
